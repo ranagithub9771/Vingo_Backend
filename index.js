@@ -47,3 +47,6 @@ server.listen(port,()=>{
     connectDb()
     console.log(`server started at ${port}`)
 })
+
+
+//checking if the server is running or not
